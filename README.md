@@ -128,3 +128,5 @@ In this project, our final Python script will need to be able to deliver the fol
 > - **Diana DeGette** won the election, with a total votes of **272,892**
 > - In addition, **Diana DeGette** has the total percentage votes of `73.8%`  
 > - **Diana DeGette** is the Winner!
+
+![name-of-you-image](https://github.com/DataJew/PyPoll-Election-Analysis/blob/main/Resources/analysis/election_analysis.txt)
