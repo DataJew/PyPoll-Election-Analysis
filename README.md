@@ -22,43 +22,9 @@ Working from the election_results.csv file, use for loops and conditional statem
 
 **1. Total Votes in the election are printed to the terminal**
 
-> Image with `Python` Code below.
-
-
-**Code and Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-printed-to-the-terminal.PNG?raw=true)
-
-
 **2. Each candidate’s total votes and percentage of votes are printed to the terminal.**
 
-> Image with `Python` Code below.
-
-
-**Code and Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/Each-candidates-total-votes-and-percentage-of-votes-are-printed-to-the-terminal.PNG?raw=true)
-
-
 **3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.**
-
-> Image with `Python` Code below.
-
-
-**Code and Image - The winner of the election**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winner-of-the-election.PNG?raw=true)
-
-
-**Code and Image - The winning vote count**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winning-vote-count.PNG?raw=true)
-
-
-**Code and Image - The winning percentage of votes**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Election_Analysis/blob/main/Resources/The-winning-percentage-of-votes-are-printed-to-the-terminal.PNG?raw=true)
-
 
 ### Deliverable 1b: County Results
 ### Deliverable Requirements:
